@@ -4,5 +4,5 @@ I'm a designer with a high interest in creating tools and plugins that enable ot
 
 ## Want to support my work?
 
-If you want to sponsor me financially you can do so on [Buy me a coffee](https://www.buymeacoffee.com/six7
+If you want to sponsor me financially you can do so on [GitHub](https://github.com/sponsors/six7), [Buy me a coffee](https://www.buymeacoffee.com/six7
 ) or on [Patreon](https://www.patreon.com/jansix).
