@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm a designer with a high interest in creating tools and plugins that enable others to do their best work. I currently work at GitHub as a Senior Product Designer.
+I'm a designer with a high interest in creating tools and plugins that enable others to do their best work. I currently work at GitHub as a Staff Product Designer.
 
 ## Want to support my work?
 
